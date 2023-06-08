@@ -2,9 +2,9 @@
 * Proyecto final Computacion grafica 
 * Alumnos: 
 *		   
-Bautista Flores Mauricio
-Loperena Alcantara Marisol Viridiana
-Zecua Salinas Juan Carlos 
+Bautista Flores Mauricio               315286032
+Loperena Alcantara Marisol Viridiana   313317864
+Zecua Salinas Juan Carlos              316078317
 		   
 * 
 */
