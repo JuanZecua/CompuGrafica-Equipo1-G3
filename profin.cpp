@@ -1,7 +1,11 @@
 /*
 * Proyecto final Computacion grafica 
 * Alumnos: 
-*		   Zecua Salinas Juan Carlos 
+*		   
+Bautista Flores Mauricio
+Loperena Alcantara Marisol Viridiana
+Zecua Salinas Juan Carlos 
+		   
 * 
 */
 
